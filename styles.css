@@ -22,20 +22,20 @@
 }
 .post-img{
   width:100%;
-  border-bottom:1px solid black;
+  border-bottom:1px solid rgb(21, 21, 21);
 }
 .post-content{
   padding:30px;
 }
 .post-title ,.post-excerpt{
-  color:rgb(247, 29, 69);
+  color:rgb(245, 10, 53);
   margin:20px;
 
 }
 .read-more{
-  color:rgb(165, 253, 0);
+  color:rgb(255, 2, 2);
   display:inline-block;
-  background-color:rgb(148, 148, 161);
+  background-color:rgb(173, 173, 180);
   margin:20px;
   padding:20px;
   border-radius:10px;
